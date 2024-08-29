@@ -1,5 +1,5 @@
 <h1 align="center">Hola soy Julian</h1>
-<h2 align="center">Soy un desarrollador full-stack autodidacta con experiencia en **HTML, CSS, Tailwind CSS, y JavaScript**, y con conocimientos en **React, Node.js, Express, SQL, y AWS**. Mejoro mis habilidades y conocimientos a través de proyectos personales, los cuales espero estén aquí y no hayan sido eliminados.</h2>
+<h2 align="center">Soy un desarrollador full-stack autodidacta con experiencia en HTML, CSS, Tailwind CSS, y JavaScript, y con conocimientos en React, Node.js, Express, SQL, y AWS. Mejoro mis habilidades y conocimientos a través de proyectos personales, los cuales espero estén aquí y no hayan sido eliminados.</h2>
 
 - 🌱 Estoy estudiando **Analisis y desarrollo de software**
 
