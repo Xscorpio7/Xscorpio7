@@ -1,11 +1,11 @@
 <h1 align="center">Hola soy Julian</h1>
-<h3 align="center">Soy un desarrollador full-stack autodidacta siempre estoy en busca de nuevos retos y conocimientos. Mi habilidad para resolver problemas y adaptarme a situaciones complejas me ha permitido desarrollarme en el mundo de la programacion, Tengo una sólida comprensión de HTML, CSS, JavaScript y React, y actualmente estoy expandiendo mis conocimientos técnico aprendiendo SQL. Me gusta aprender y aplicar nuevas tecnologías que me permitan crear soluciones innovadoras y eficientes.</h3>
+<h2 align="center">Soy un desarrollador full-stack autodidacta con experiencia en **HTML, CSS, Tailwind CSS, y JavaScript**, y con conocimientos en **React, Node.js, Express, SQL, y AWS**. Mejoro mis habilidades y conocimientos a través de proyectos personales, los cuales espero estén aquí y no hayan sido eliminados.</h2>
 
-- 🌱 Estoy aprendiendo **Node.Js,SQL y más**
+- 🌱 Estoy estudiando **Analisis y desarrollo de software**
 
 - 💬 Preguntame sobre **HTML, CSS, Javascript**
 
-- ⚡ Dato curioso **He trabajado en diferentes sectores, desde servicio al cliente como en reforestación y manejo de máquinas, así que conozco el trabajo en equipo, resolución de problemas**
+- ⚡ Dato curioso **He trabajado en diferentes sectores, desde servicio al cliente como en reforestación y manejo de máquinas, así que conozco el trabajo en equipo, resolución de problemas y la adaptibilidad a los diferentes entornos**
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
